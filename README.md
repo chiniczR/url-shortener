@@ -1,10 +1,14 @@
+# URL Shortener
+
 This is a simple URL shortener fullstack app. The frontend is in HTML+CSS+Vue.js and the
 backend in Python+Flask, with the database (to store the shortened URLs) is in SQLite.
 
 First:
+	
 	$ cd UrlShortener/SourceCode
 
 For the server/backend:					-- Will run on port 8080
+
 	$ cd backend
 
 	If SQLite3 is not already installed:
@@ -17,6 +21,7 @@ For the server/backend:					-- Will run on port 8080
 	$ FLASK_APP=run.py flask run
 
 For the client/frontend:				-- Will run on port 5000
+	
 	$ cd frontend
 
 	If Node.js is not installed:
