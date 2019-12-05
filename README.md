@@ -4,7 +4,7 @@ backend in Python+Flask, with the database (to store the shortened URLs) is in S
 First:
 	$ cd UrlShortener/SourceCode
 
-For the server/backend:			-- Will run on port 8080
+For the server/backend:					-- Will run on port 8080
 	$ cd backend
 
 	If SQLite3 is not already installed:
@@ -16,7 +16,7 @@ For the server/backend:			-- Will run on port 8080
 
 	$ FLASK_APP=run.py flask run
 
-For the client/frontend:		-- Will run on port 5000
+For the client/frontend:				-- Will run on port 5000
 	$ cd frontend
 
 	If Node.js is not installed:
