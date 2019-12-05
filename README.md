@@ -14,9 +14,9 @@ For the server/backend:					-- Will run on port 8080
 	If SQLite3 is not already installed:
 		$ sudo apt-get install sqlite3
 	If Flask is not installed:
-		$ sudo pip install flask
+		$ pip install --user flask
 	If Flask-Cors is not installed:
-		$ sudo pip install flask_cors
+		$ pip install --user flask_cors
 
 	$ FLASK_APP=run.py flask run
 
