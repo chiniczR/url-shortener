@@ -4,7 +4,7 @@ This is a simple URL shortener fullstack app. The frontend is in HTML+CSS+Vue.js
 backend in Python+Flask, with the database (to store the shortened URLs) is in SQLite.
 
 Here's a quick demo (where the URL is a Google query for how to embed font-awesome icons):
-![](urlShortenerDemo.webm)
+
 
 To run, first:
 	
